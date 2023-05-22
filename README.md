@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
-[Click Here]()
+[Click Here](https://accordian-reactapp-harshcodes.netlify.app/)
 
 ---
 
